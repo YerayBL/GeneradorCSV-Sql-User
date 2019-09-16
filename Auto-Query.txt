@@ -1,0 +1,1 @@
+SELECT * from dbo.EMPRESAS//s//;//s//usuario3//s//SjmKclVEnuenuXoZe253og==//s//2XB6032//s//DBO.BECARIOS//s//C:\Users\usuario\Desktop/fichero.csv//s//
